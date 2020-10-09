@@ -1,0 +1,22 @@
+{
+  "name": "examsonline-docs",
+  "version": "1.0.0",
+  "description": "documanetation for examsonline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohit497/examsonline-docs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohit497/examsonline-docs/issues"
+  },
+  "homepage": "https://github.com/mohit497/examsonline-docs#readme",
+  "dependencies": {
+    "hads": "^2.1.0"
+  }
+}
