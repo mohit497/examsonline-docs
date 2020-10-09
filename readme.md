@@ -1,5 +1,5 @@
 
-# Get Started with ExamsOnline
+# Get Started with ExamsOnline Docs
 [[index]]
 
 ## Reach out to us on Whats app Join our Support Group
