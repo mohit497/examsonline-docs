@@ -2,10 +2,16 @@
 # Get Started with ExamsOnline Docs
 [[index]]
 
-## Reach out to us on Whats app Join our Support Group
+## Whatsapp
 
 ![Join whatsapp](/images/support.png "Join whatsapp Group")
 
-To join the  support group Click  [here](https://chat.whatsapp.com/Lk3z4q1ySJT6VpJi9tZR6v).
+To Chat with us on whatsapp [Click here](https://chat.whatsapp.com/Lk3z4q1ySJT6VpJi9tZR6v).
+
+## Email
+<contact@examsonline.asia>
+
+## Facebook
+<https://www.facebook.com/examsonline>
 
 <a href="https://examsonline.asia"> <button class="btn-secondary"> **Go Back to Examsonline**</button></a>
