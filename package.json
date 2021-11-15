@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start":"hads -o",
-    "postinstall": "hads --export",
+    "postinstall": "hads --export"
   },
   "repository": {
     "type": "git",
