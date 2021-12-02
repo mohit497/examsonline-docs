@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/mohit497/examsonline-docs#readme",
   "dependencies": {
-    "hads": "^2.1.0"
+    "hads": "3.0.1"
   }
 }
